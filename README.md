@@ -23,7 +23,7 @@ Key insights include:
 ## 📂 Files in This Repo
 
 - `capstone2-2.ipynb` – Python notebook with full analysis and visualizations.
-- (Optional: Link to [PowerPoint presentation](#) if uploaded elsewhere like Google Drive)
+
 
 ## ✅ Outcome
 
